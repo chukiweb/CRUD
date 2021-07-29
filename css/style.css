@@ -1,0 +1,48 @@
+#footer{
+    height: 40px;
+    background:  #cccccc;
+    padding-top: 6px;
+    text-align: center;
+}
+.buscar {
+    size: 25px;
+    margin-right: 10px;
+}
+.listaProductos{
+    width: 100%;
+    padding: 10px;
+}
+.encabezado{
+    padding: 20px 0px;
+    text-align: center;
+}
+#titulo{
+    font-size: 2em;
+}
+.envoltorio{
+    border: 1px solid black;
+    background: #cccccc;
+}
+.titulo{
+    text-align: center;
+    
+}
+
+.error{
+    color: red;
+    text-align: right;
+
+}
+.aviso{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60%;
+}
+#descripcion-listado{
+    width: 445px;
+}
+
+.descripcion-padre{
+    display: flex;
+}
